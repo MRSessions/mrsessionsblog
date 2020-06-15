@@ -7,7 +7,7 @@ tag:
   - MacOS
 author: Matt Sessions
 location: Greater Nashville Area, TN  
-title: The Once, "I Hate Apple Products" Microsoft User Developing on a Macbook
+title: The Once, "I Hate Apple Products" Microsoft User Now Developing on a Macbook
 ---
 
 My main focus in development has always been around the Microsoft .NET stack since before I started my first dev job. Most recently, I have gotten into the Node realm, using React JS and Vue JS.

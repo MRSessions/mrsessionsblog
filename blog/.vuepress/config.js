@@ -65,7 +65,7 @@ module.exports = {
     },
     comment: {
       service: 'disqus',
-      shortname: 'mrsessions blog',
+      shortname: 'blog-mrsessions-com',
     },
   },
   // plugins: {
