@@ -32,3 +32,9 @@ After all of that is done, you are ready to run the project to see how it looks.
 ![Article](https://mrsessionsblog.blob.core.windows.net/mrsessionsblogimg/how-to-build-a-vuepress-blog/localhost002.png)
 
 In the next article, I will go through how to set up an Azure Static Web App and Github actions to deploy to it. Let me know if you have any questions in the comments below.
+
+If you find this an other content I post helpful, please consider buying me a coffee using the button below.
+
+<div style="float:right">
+<a href="https://www.buymeacoffee.com/mrsessions" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-white.png" alt="Buy Me A Coffee" style="height: 51px !important;width: 217px !important;" ></a>
+</div>

@@ -50,3 +50,9 @@ Then another thing happened, in May I decided that I wanted to buy my first actu
 Today, for most development it doesn't matter the operating system you are on, especially if you are developing web applications. The whole PC versus Mac or Mac versus PC argument should no longer be a thing anymore, at least within the development world. Sure, there are certain things that one can still do better than the other, but end the end, you don't have to rely on a specific OS. Be free, Microsoft has opened up to other operating systems to allow them to develop on the Microsoft ecosystem without having to touch a Windows machine as well as running applications. Microsoft has also made it easier to develop for iOS and Android while on a Windows machine, and now there are other technologies that help with native-style apps that you can build and deploy to iOS and Android.
 
 If you are a Microsoft .NET Core developer, I encourage you to branch out and try Linux or Mac and learn your CLI tools for git and dotnet as well as other tools you use. I feel like this can help you to become a better developer in the future. If you are working on a team with a diverse group of people and technology, you should learn all you can. I'm a lot better of a developer than when I started, but I'm continuously learning new things every day.
+
+If you find this an other content I post helpful, please consider buying me a coffee using the button below.
+
+<div style="float:right">
+<a href="https://www.buymeacoffee.com/mrsessions" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-white.png" alt="Buy Me A Coffee" style="height: 51px !important;width: 217px !important;" ></a>
+</div>
