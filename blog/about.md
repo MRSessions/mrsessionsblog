@@ -5,6 +5,7 @@
 <p>I have been a software developer since the age of 24 (born in 1990), but have always been into computers and technology. Since then, I have always had more focus towards C# and SQL development as well as other related technologies to the two.
 </p>
 <p>I have decided to start a blog in this 'wonderful' year of 2020, because... well..., some of us need more things to do these days. Plus, I want to be able to help other developers along the way, so I'm hoping the information I share, can help others out.</p>
+<p>Please feel free to reach out to me on [Twitter](https://twitter.com/matt_sessions) if you have any questions or ideas for anything I should post.</p>
 <br/>
 <p>Thank you,<br/>Matt Sessions</p>
 

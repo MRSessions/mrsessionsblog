@@ -47,8 +47,8 @@ module.exports = {
           link: 'https://www.linkedin.com/in/mrsessionsit/',
         },
         {
-          // type: 'twitter',
-          // link: 'https://twitter.com/_ulivz',
+          type: 'twitter',
+          link: 'https://twitter.com/matt_sessions',
         },
       ],
       copyright: [
