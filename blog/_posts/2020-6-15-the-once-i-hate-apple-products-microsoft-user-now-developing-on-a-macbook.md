@@ -5,9 +5,11 @@ tag:
   - Windows
   - Apple
   - MacOS
+  - MacBook
+  - MacBook Pro
 author: Matt Sessions
 location: Greater Nashville Area, TN  
-title: The Once, "I Hate Apple Products" Microsoft User Now Developing on a Macbook
+title: The Once, "I Hate Apple Products" Microsoft User Now Developing on a MacBook
 ---
 
 My main focus in development has always been around the Microsoft .NET stack since before I started my first dev job. Most recently, I have gotten into the Node realm, using React JS and Vue JS.
@@ -45,7 +47,7 @@ Eventually, I pushed myself enough, and now I can comfortably use a Mac system t
 ![myNewMac](https://mrsessionsblog.blob.core.windows.net/mrsessionsblogimg/the-once-i-hate-apple-products-microsoft-user-now-developing-on-a-macbook/IMG_4094.jpg)
 </div><br/><br/>
 
-Then another thing happened, in May I decided that I wanted to buy my first actual Mac from Apple themselves and have a faster more up-to-date machine. I had been looking around for quite a while and bounced the idea of going to a 13-inch or the new 15-inch. On Saturday, June 6th, 2020 I decided to take the plunge and grab a Macbook Pro 16-inch with an i9, 5500M graphics, and 32GB of ram. It came in three days later. An all-around Microsoft guy who used to say "I hate Apple products" bought a brand new Macbook Pro 16-inch.<br/><br/><br/><br/><br/>
+Then another thing happened, in May I decided that I wanted to buy my first actual Mac from Apple themselves and have a faster more up-to-date machine. I had been looking around for quite a while and bounced the idea of going to a 13-inch or the new 15-inch. On Saturday, June 6th, 2020 I decided to take the plunge and grab a MacBook Pro 16-inch with an i9, 5500M graphics, and 32GB of ram. It came in three days later. An all-around Microsoft guy who used to say "I hate Apple products" bought a brand new MacBook Pro 16-inch.<br/><br/><br/><br/><br/>
 
 Today, for most development it doesn't matter the operating system you are on, especially if you are developing web applications. The whole PC versus Mac or Mac versus PC argument should no longer be a thing anymore, at least within the development world. Sure, there are certain things that one can still do better than the other, but end the end, you don't have to rely on a specific OS. Be free, Microsoft has opened up to other operating systems to allow them to develop on the Microsoft ecosystem without having to touch a Windows machine as well as running applications. Microsoft has also made it easier to develop for iOS and Android while on a Windows machine, and now there are other technologies that help with native-style apps that you can build and deploy to iOS and Android.
 
