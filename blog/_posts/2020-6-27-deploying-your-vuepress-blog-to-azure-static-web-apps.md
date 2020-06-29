@@ -24,8 +24,8 @@ Search for 'Static Web App', click on the 'Static Web App (Preview) button', the
 ![Static Web App (Preview)](https://mrsessionsblog.blob.core.windows.net/mrsessionsblogimg/deploying-your-vuepress-blog-to-azure-static-web-apps/selectStaticWebApp.png)
 
 On the 'Project Details' page, you'll select your subscription and create a resource group if you don't have one. Create a name for your blog and select a region. At this time, there is only a Free version of Azure Static Web Apps since it is currently in preview. Then click 'Sign in with GitHub' and select where your app is located. After that, click the 'Next: Build >' button.
-![](https://blob.mrsessions.com/mrsessionsblogimg/deploying-your-vuepress-blog-to-azure-static-web-apps/SignInWithGitHub.png)
-![](https://blob.mrsessions.com/mrsessionsblogimg/deploying-your-vuepress-blog-to-azure-static-web-apps/NextBuild.png)
+![](https://mrsessionsblog.blob.core.windows.net/mrsessionsblogimg/deploying-your-vuepress-blog-to-azure-static-web-apps/SignInWithGitHub.png)
+![](https://mrsessionsblog.blob.core.windows.net/mrsessionsblogimg/deploying-your-vuepress-blog-to-azure-static-web-apps/NextBuild.png)
 
 Here you will only need to change the 'App artifact location' field to blog/.vuepress/dist. Then click 'Review + create'. You will now see a summary of your resource, just hit 'Create' at the bottom.
 ![](https://mrsessionsblog.blob.core.windows.net/mrsessionsblogimg/deploying-your-vuepress-blog-to-azure-static-web-apps/reviewPlusCreate.png)
