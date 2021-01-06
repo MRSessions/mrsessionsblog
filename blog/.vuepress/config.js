@@ -14,6 +14,10 @@ module.exports = {
      */
     nav: [
       {
+        text: 'Home',
+        link: 'https://mrsessions.com/',
+      },
+      {
         text: 'Blog',
         link: '/',
       },
